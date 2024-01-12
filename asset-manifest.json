@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather-forecasting/static/css/main.66be36b2.css",
+    "main.js": "/weather-forecasting/static/js/main.ed6212cb.js",
+    "static/media/humidity.png": "/weather-forecasting/static/media/humidity.c44fe66680900b54fb2b.png",
+    "index.html": "/weather-forecasting/index.html",
+    "main.66be36b2.css.map": "/weather-forecasting/static/css/main.66be36b2.css.map",
+    "main.ed6212cb.js.map": "/weather-forecasting/static/js/main.ed6212cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66be36b2.css",
+    "static/js/main.ed6212cb.js"
+  ]
+}
