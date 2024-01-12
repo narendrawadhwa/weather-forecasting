@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.morning-gradient {
+    background: linear-gradient(to top, #3498db, #a6c0fe);
+  }
+  
+  .noon-gradient {
+    background: linear-gradient(to top, #fa7869, #d4b500);
+
+  }
+  .light-night-gradient {
+    background: linear-gradient(to bottom, #50004c, #b40179);
+  }
+  
+  .dark-night-gradient {
+    background: linear-gradient(to bottom, #00305f, #3f76aa);
+  }
+  input::placeholder {
+    color: white; 
+  }
